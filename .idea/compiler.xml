@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task-build-classes-kotlin.main" target="8" />
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task-build-reports-tests.main" target="8" />
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task-build-test-results.main" target="8" />
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task-build-tmp.main" target="8" />
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Functions_as_objects-Continuation-Passing_Style.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Functions_as_objects-First_predicate.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Functions_as_objects-Function_composition.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Functions_as_objects-Function_generator.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Functions_as_objects-Theory.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Drawing_a_red_square.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Drawing_four_circles.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Drawing_three_strings.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Drawing_two_lines.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Theory.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-List-Even_numbers.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-List-Indexes.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-List-Number_of_occurrences.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-List-Sum_of_numbers.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-List-Theory.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Multi-dimensional_array-Accordance.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Multi-dimensional_array-Corners.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Multi-dimensional_array-Cube_of_zeros.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Multi-dimensional_array-Kotlin_arrays.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Multi-dimensional_array-Theory.main" target="8" />
+      <module name="Steganography_and_Cryptography.util.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
